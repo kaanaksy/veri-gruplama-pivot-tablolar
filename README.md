@@ -1,0 +1,1 @@
+# veri-gruplama-pivot-tablolar
